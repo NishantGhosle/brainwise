@@ -1,0 +1,9 @@
+.second {
+  display: flex;
+  margin: 130px 130px 100px 130px;
+}
+.second-para {
+  width: 80%;
+  margin-left: 140px;
+  margin-top: 40px;
+}

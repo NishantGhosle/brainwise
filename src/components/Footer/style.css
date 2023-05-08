@@ -1,0 +1,40 @@
+.blue-container {
+  background: linear-gradient(#4147c2 100%, #7868ed 0%);
+  margin: 120px 120px 0px 120px;
+  border-radius: 7px;
+  color: #fff;
+  padding: 40px 60px;
+}
+.left-list {
+  list-style: none;
+  margin-top: 30px;
+  font-weight: 400;
+  margin-left: 100px;
+  color: #0b1460;
+  line-height: 25px;
+  font-size: 12.8px;
+}
+.right-footer {
+  margin-left: 600px;
+}
+.right-footer li {
+  line-height: 25px;
+  color: #0b1460;
+  font-size: 12.8px;
+  font-weight: 400;
+  list-style: none;
+}
+.right-footer p {
+  color: #0b1460;
+  font-size: 16px;
+  font-weight: 500;
+}
+.input-blue {
+  border: none;
+  position: absolute;
+  width: 300px;
+  padding: 5px 30px;
+  border-radius: 11px;
+  background-color: #626aee;
+  color: #ffffff;
+}
